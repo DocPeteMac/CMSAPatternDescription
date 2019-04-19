@@ -1,0 +1,27 @@
+body {
+    background: #1f1f1f;
+    color: rgb(236, 236, 236);
+}
+img {
+    width: 25%;
+    height: 25%;
+    padding-bottom: 20px;
+}
+#header {
+    position: relative;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #fff5bf;
+    z-index: -10;
+}
+.descript {
+    padding-left: 40px;
+    position: relative;
+    top: 200px;
+}
+a {
+    padding-left: 100px;
+}
